@@ -13,6 +13,12 @@ class A
     {
         System.out.println("Constructor is called");
     }
+
+    public A(int i) {
+    }
+
+    public void display() {
+    }
 }
 class B
 {
