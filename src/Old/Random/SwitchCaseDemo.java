@@ -1,4 +1,10 @@
+/*
+  Created in IntelliJ IDEA
+  Author: YUGAM
+*/
+
 package Old.Random;
+
 /*
 switch case demo
      Example :

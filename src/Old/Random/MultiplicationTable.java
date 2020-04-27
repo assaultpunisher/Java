@@ -1,4 +1,11 @@
-package Old.Random;/*
+/*
+  Created in IntelliJ IDEA
+  Author: YUGAM
+*/
+
+package Old.Random;
+
+/*
 Program to Display Multiplication Table
 */
 

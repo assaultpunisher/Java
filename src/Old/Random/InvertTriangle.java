@@ -1,3 +1,8 @@
+/*
+  Created in IntelliJ IDEA
+  Author: YUGAM
+*/
+
 package Old.Random;
 
 import java.io.BufferedReader;

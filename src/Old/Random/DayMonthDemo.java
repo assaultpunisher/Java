@@ -1,4 +1,10 @@
+/*
+  Created in IntelliJ IDEA
+  Author: YUGAM
+*/
+
 package Old.Random;
+
 /*
 Write a program to convert given no. of days into months and days.(Assume that each month is of 30 days)
 Example :

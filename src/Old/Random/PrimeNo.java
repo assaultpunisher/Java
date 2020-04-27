@@ -1,4 +1,10 @@
+/*
+  Created in IntelliJ IDEA
+  Author: YUGAM
+*/
+
 package Old.Random;
+
 /*
 Write a program to Find whether number is Prime or Not.
 */

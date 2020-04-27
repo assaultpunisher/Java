@@ -1,4 +1,10 @@
+/*
+  Created in IntelliJ IDEA
+  Author: YUGAM
+*/
+
 package Old.Random;
+
 /*
 Write a program to find whether given no. is Old.Random.Random.Armstrong or not.
    Example :

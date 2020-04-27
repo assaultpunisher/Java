@@ -1,4 +1,10 @@
+/*
+  Created in IntelliJ IDEA
+  Author: YUGAM
+*/
+
 package Old.Random;
+
 /*
  Prime Numbers Java Example
  This Prime Numbers Java example shows how to generate prime numbers

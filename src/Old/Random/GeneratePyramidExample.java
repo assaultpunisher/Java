@@ -1,4 +1,10 @@
+/*
+  Created in IntelliJ IDEA
+  Author: YUGAM
+*/
+
 package Old.Random;
+
 /*
 Generate Pyramid For a Given Number Example
 This Java example shows how to generate a pyramid of numbers for given

@@ -1,4 +1,10 @@
+/*
+  Created in IntelliJ IDEA
+  Author: YUGAM
+*/
+
 package Old.Random;
+
 /* Write a program that will read a float type value from the keyboard and
 print the following output.
 ->Small Integer not less than the number.

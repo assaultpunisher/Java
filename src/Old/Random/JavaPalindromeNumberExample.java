@@ -1,4 +1,10 @@
+/*
+  Created in IntelliJ IDEA
+  Author: YUGAM
+*/
+
 package Old.Random;
+
 /*
 This program shows how to check for in the given list of numbers
 whether each number is palindrome or not

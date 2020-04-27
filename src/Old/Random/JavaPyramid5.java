@@ -1,4 +1,10 @@
+/*
+  Created in IntelliJ IDEA
+  Author: YUGAM
+*/
+
 package Old.Random;
+
 /*
  Java Pyramid 5 Example
 This Java Pyramid example shows how to generate pyramid or triangle

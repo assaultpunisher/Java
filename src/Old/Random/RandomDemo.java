@@ -1,4 +1,10 @@
+/*
+  Created in IntelliJ IDEA
+  Author: YUGAM
+*/
+
 package Old.Random;
+
 /*
 Write a program to generate 5 Old.Random.Random nos.
 between 1 to 100, and it should not follow with decimal

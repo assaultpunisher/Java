@@ -1,4 +1,10 @@
+/*
+  Created in IntelliJ IDEA
+  Author: YUGAM
+*/
+
 package Old.Random;
+
 /*
 Compare Two Numbers Java Example
 This Compare Two Numbers Java Example shows how to compare two numbers

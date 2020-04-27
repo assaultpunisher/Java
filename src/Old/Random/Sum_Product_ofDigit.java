@@ -1,4 +1,11 @@
-package Old.Random;/*
+/*
+  Created in IntelliJ IDEA
+  Author: YUGAM
+*/
+
+package Old.Random;
+
+/*
 Write a program to find SUM AND PRODUCT of
 a given Digit.
 */
