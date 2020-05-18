@@ -27,3 +27,6 @@
 - It has a huge community support (tens of millions of developers)
 - Java is an object oriented language which gives a clear structure to programs and allows code to be reused, lowering development costs
 - As Java is close to C++ and C#, it makes it easy for programmers to switch to Java or vice versa
+
+
+#### --> https://docs.oracle.com/en/java/
