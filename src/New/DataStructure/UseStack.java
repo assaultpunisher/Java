@@ -7,7 +7,7 @@ package New.DataStructure;
 
 class Stack {
     int stcksize = 100;
-    int stck[] = new int[stcksize];
+    int[] stck = new int[stcksize];
     int tos;
 
     Stack() {
@@ -31,7 +31,7 @@ class Stack {
 }
 
 public class UseStack {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Stack s = new Stack();
         s.push(1);
         s.push(2);
